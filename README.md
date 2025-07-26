@@ -13,7 +13,7 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 - 🌱 Learning: **Advanced Java, REST APIs, Security, Hibernate**
 - 🐨️ Ask me about: **Java, Spring Boot, JPA, Git**
 - 📢 Email: **infovickygupta01@gmail.com**
-- 🌐 Portfolio: [Click Here](https://endearing-bavarois-371a39.netlify.app/)
+- 🌐 Portfolio: <a href="https://endearing-bavarois-371a39.netlify.app/" target="_blank">Click Here</a>
 - ✨ Fun fact: _I turn ☕ into code and bugs into features._
 
 ---
@@ -39,11 +39,12 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/vickygupta01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Vicky8084"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/vickygupta01"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/vicky_098/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/mrvickygupta1111"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vickygupta01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Vicky8084" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/vickygupta01" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/vicky_098/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/mrvickygupta1111" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://endearing-bavarois-371a39.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6347?style=flat&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,7 +60,7 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 
 ---
 
-### 📆 GitHub Stats Summary
+### 🗈️ GitHub Stats Summary
 
 <table>
   <tr>
@@ -70,14 +71,13 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky8084&layout=compact&theme=radical&hide=c" alt="Top Languages" />
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td>
+    <td colspan="2">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicky8084&theme=radical" alt="Streak Stats"/>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vicky8084&theme=radical" />
     </td>
   </tr>
@@ -87,8 +87,8 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 
 ### 📨 Contact
 
-- 📧 Email: [infovickygupta01@gmail.com](mailto:infovickygupta01@gmail.com)
-- 🌐 Portfolio: [My Portfolio](https://endearing-bavarois-371a39.netlify.app/)
+- 📧 Email: <a href="mailto:infovickygupta01@gmail.com">infovickygupta01@gmail.com</a>
+- 🌐 Portfolio: <a href="https://endearing-bavarois-371a39.netlify.app/" target="_blank">My Portfolio</a>
 - 💼 Looking for: Internships | Junior Developer Roles | Backend Developer Roles
 
 ---
@@ -97,4 +97,4 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 > 
 > 💭 "Every great developer you know started by writing code that wasn’t great."
 > 
-> ❤️ Built with passion by **Vicky Gup
+> ❤️ Built with passion by **Vicky Gupta**
