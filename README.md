@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Vicky Gupta
 
-A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨🇳
+"I'm a dedicated Java Full Stack Developer and currently pursuing my MCA at CUCEK, Kerala. I love building useful applications and learning new technologies every day."
 
 ---
 
@@ -11,7 +11,7 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 - 🎓 MCA student at **CUCEK (Cochin University)**
 - 🚀 Building **Java Full Stack Projects with Spring Boot**
 - 🌱 Learning: **Advanced Java, REST APIs, Security, Hibernate**
-- 🐨️️ Ask me about: **Java, Spring Boot, JPA, Git**
+- 🐨️ Ask me about: **Java, Spring Boot, JPA, Git**
 - 📢 Email: **infovickygupta01@gmail.com**
 - 🌐 Portfolio: <a href="https://endearing-bavarois-371a39.netlify.app/" target="_blank">Click Here</a>
 - ✨ Fun fact: _I turn ☕ into code and bugs into features._
@@ -33,15 +33,6 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
 </p>
-
----
-
-### 💻 Current Stack
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Java, Spring Boot
-- **Database**: MySQL
-- **Tools**: IntelliJ IDEA, Postman, Git, GitHub
 
 ---
 
@@ -69,7 +60,35 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 
 ---
 
-### 🏨️ GitHub Stats Summary
+### 💻 Tech Stack & 🔥 GitHub Streak
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h4>💻 Current Stack</h4>
+
+<ul>
+  <li><strong>Frontend</strong>: HTML, CSS, JavaScript</li>
+  <li><strong>Backend</strong>: Java, Spring Boot</li>
+  <li><strong>Database</strong>: MySQL</li>
+  <li><strong>Tools</strong>: IntelliJ IDEA, Postman, Git, GitHub</li>
+</ul>
+
+</td>
+<td valign="top" width="50%">
+
+<h4>🔥 GitHub Streak</h4>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vicky8084&theme=radical" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
 
 <table>
   <tr>
@@ -84,14 +103,6 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 
 ---
 
-### 🔥 Current Streak
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vicky8084&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📨 Contact
 
 - 📧 Email: <a href="mailto:infovickygupta01@gmail.com">infovickygupta01@gmail.com</a>
@@ -100,8 +111,6 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 
 ---
 
-> 💡 "Consistency is more important than intensity."
-> 
-> 💭 "Every great developer you know started by writing code that wasn’t great."
-> 
+> 💡 "Consistency is more important than intensity."  
+> 💭 "Every great developer you know started by writing code that wasn’t great."  
 > ❤️ Built with passion by **Vicky Gupta**
