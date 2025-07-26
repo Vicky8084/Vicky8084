@@ -40,22 +40,22 @@ I specialize in building robust Java backend systems and exploring modern web de
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vickygupta01" target="_blank">
+  <a href="https://linkedin.com/in/vickygupta01" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Vicky8084" target="_blank">
+  <a href="https://github.com/Vicky8084" target="blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/vickygupta01" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/vickygupta01" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/vicky_098/" target="_blank">
+  <a href="https://leetcode.com/u/vicky_098/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.hackerrank.com/profile/mrvickygupta1111" target="_blank">
+  <a href="https://www.hackerrank.com/profile/mrvickygupta1111" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://endearing-bavarois-371a39.netlify.app/" target="_blank">
+  <a href="https://endearing-bavarois-371a39.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
