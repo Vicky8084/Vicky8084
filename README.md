@@ -42,7 +42,7 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
   <a href="https://linkedin.com/in/vickygupta01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Vicky8084" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/vickygupta01" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/vicky_098/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/vicky_098/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/mrvickygupta1111" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
   <a href="https://endearing-bavarois-371a39.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6347?style=flat&logo=firefox&logoColor=white" /></a>
 </p>
@@ -53,14 +53,14 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 
 <table>
 <tr>
-<td><img src="https://leetcard.jacoblin.cool/vicky_098" /></td>
+<td><a href="https://leetcode.com/vicky_098/" target="_blank"><img src="https://leetcard.jacoblin.cool/vicky_098" /></a></td>
 <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky8084&repo=Vicky8084&theme=radical" /></td>
 </tr>
 </table>
 
 ---
 
-### 🗈️ GitHub Stats Summary
+### 🗘️ GitHub Stats Summary
 
 <table>
   <tr>
@@ -69,16 +69,6 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky8084&layout=compact&theme=radical&hide=c" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicky8084&theme=radical" alt="Streak Stats"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vicky8084&theme=radical" />
     </td>
   </tr>
 </table>
