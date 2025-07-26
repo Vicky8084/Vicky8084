@@ -11,7 +11,7 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 - 🎓 MCA student at **CUCEK (Cochin University)**
 - 🚀 Building **Java Full Stack Projects with Spring Boot**
 - 🌱 Learning: **Advanced Java, REST APIs, Security, Hibernate**
-- 🐨️ Ask me about: **Java, Spring Boot, JPA, Git**
+- 🐨️️ Ask me about: **Java, Spring Boot, JPA, Git**
 - 📢 Email: **infovickygupta01@gmail.com**
 - 🌐 Portfolio: <a href="https://endearing-bavarois-371a39.netlify.app/" target="_blank">Click Here</a>
 - ✨ Fun fact: _I turn ☕ into code and bugs into features._
@@ -33,6 +33,15 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
 </p>
+
+---
+
+### 💻 Current Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Java, Spring Boot
+- **Database**: MySQL
+- **Tools**: IntelliJ IDEA, Postman, Git, GitHub
 
 ---
 
@@ -60,7 +69,7 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
 
 ---
 
-### 🗘️ GitHub Stats Summary
+### 🏨️ GitHub Stats Summary
 
 <table>
   <tr>
@@ -72,6 +81,14 @@ A passionate Full Stack Java Developer and MCA student from CUCEK, Kerala 🇨�
     </td>
   </tr>
 </table>
+
+---
+
+### 🔥 Current Streak
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vicky8084&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
